@@ -9,7 +9,7 @@ Author: S. M. Shah Alam
 Author URI:
 License:  GPL2
 */
-class vc_Custom_menu
+class vc_custom_menu
 {
 
     function __construct()
@@ -99,4 +99,4 @@ class vc_Custom_menu
 
 }
 
-new vc_Custom_menu();
+new vc_custom_menu();
